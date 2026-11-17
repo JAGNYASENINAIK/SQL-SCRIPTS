@@ -1,2 +1,2 @@
 SELECT * FROM customers;
-SELECT * FROM  persons
+SELECT * FROM  orders
